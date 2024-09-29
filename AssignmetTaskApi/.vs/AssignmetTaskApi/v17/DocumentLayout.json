@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Edwin\\source\\repos\\AssignmetTaskApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DF1DAD-832E-4559-B007-9F3A67C00E17}|AssignmetTaskApi.csproj|c:\\users\\edwin\\source\\repos\\assignmettaskapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DF1DAD-832E-4559-B007-9F3A67C00E17}|AssignmetTaskApi.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DF1DAD-832E-4559-B007-9F3A67C00E17}|AssignmetTaskApi.csproj|c:\\users\\edwin\\source\\repos\\assignmettaskapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DF1DAD-832E-4559-B007-9F3A67C00E17}|AssignmetTaskApi.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DF1DAD-832E-4559-B007-9F3A67C00E17}|AssignmetTaskApi.csproj|c:\\users\\edwin\\source\\repos\\assignmettaskapi\\domain\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DF1DAD-832E-4559-B007-9F3A67C00E17}|AssignmetTaskApi.csproj|solutionrelative:domain\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DF1DAD-832E-4559-B007-9F3A67C00E17}|AssignmetTaskApi.csproj|c:\\users\\edwin\\source\\repos\\assignmettaskapi\\domain\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DF1DAD-832E-4559-B007-9F3A67C00E17}|AssignmetTaskApi.csproj|solutionrelative:domain\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DF1DAD-832E-4559-B007-9F3A67C00E17}|AssignmetTaskApi.csproj|c:\\users\\edwin\\source\\repos\\assignmettaskapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DF1DAD-832E-4559-B007-9F3A67C00E17}|AssignmetTaskApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DF1DAD-832E-4559-B007-9F3A67C00E17}|AssignmetTaskApi.csproj|c:\\users\\edwin\\source\\repos\\assignmettaskapi\\common\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DF1DAD-832E-4559-B007-9F3A67C00E17}|AssignmetTaskApi.csproj|solutionrelative:common\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DF1DAD-832E-4559-B007-9F3A67C00E17}|AssignmetTaskApi.csproj|c:\\users\\edwin\\source\\repos\\assignmettaskapi\\infraestructure\\assignmettaskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DF1DAD-832E-4559-B007-9F3A67C00E17}|AssignmetTaskApi.csproj|solutionrelative:infraestructure\\assignmettaskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DF1DAD-832E-4559-B007-9F3A67C00E17}|AssignmetTaskApi.csproj|c:\\users\\edwin\\source\\repos\\assignmettaskapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C8DF1DAD-832E-4559-B007-9F3A67C00E17}|AssignmetTaskApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DF1DAD-832E-4559-B007-9F3A67C00E17}|AssignmetTaskApi.csproj|c:\\users\\edwin\\source\\repos\\assignmettaskapi\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DF1DAD-832E-4559-B007-9F3A67C00E17}|AssignmetTaskApi.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DF1DAD-832E-4559-B007-9F3A67C00E17}|AssignmetTaskApi.csproj|c:\\users\\edwin\\source\\repos\\assignmettaskapi\\migrations\\20240929024659_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DF1DAD-832E-4559-B007-9F3A67C00E17}|AssignmetTaskApi.csproj|solutionrelative:migrations\\20240929024659_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Edwin\\source\\repos\\AssignmetTaskApi\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Edwin\\source\\repos\\AssignmetTaskApi\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T02:55:51.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Edwin\\source\\repos\\AssignmetTaskApi\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Edwin\\source\\repos\\AssignmetTaskApi\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T02:55:32.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Edwin\\source\\repos\\AssignmetTaskApi\\Domain\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "Domain\\DTOs\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\Edwin\\source\\repos\\AssignmetTaskApi\\Domain\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "Domain\\DTOs\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T02:53:15.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Edwin\\source\\repos\\AssignmetTaskApi\\Domain\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "Domain\\DTOs\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\Edwin\\source\\repos\\AssignmetTaskApi\\Domain\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "Domain\\DTOs\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T02:52:56.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "C:\\Users\\Edwin\\source\\repos\\AssignmetTaskApi\\Common\\Utilities.cs",
+              "RelativeDocumentMoniker": "Common\\Utilities.cs",
+              "ToolTip": "C:\\Users\\Edwin\\source\\repos\\AssignmetTaskApi\\Common\\Utilities.cs",
+              "RelativeToolTip": "Common\\Utilities.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T02:49:14.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240929024659_FirstMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Edwin\\source\\repos\\AssignmetTaskApi\\Migrations\\20240929024659_FirstMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240929024659_FirstMigration.cs",
+              "ToolTip": "C:\\Users\\Edwin\\source\\repos\\AssignmetTaskApi\\Migrations\\20240929024659_FirstMigration.cs",
+              "RelativeToolTip": "Migrations\\20240929024659_FirstMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T02:46:59.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Edwin\\source\\repos\\AssignmetTaskApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Edwin\\source\\repos\\AssignmetTaskApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-29T02:40:05.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Edwin\\source\\repos\\AssignmetTaskApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Edwin\\source\\repos\\AssignmetTaskApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T02:43:30.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssignmetTaskDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Edwin\\source\\repos\\AssignmetTaskApi\\Infraestructure\\AssignmetTaskDBContext.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\AssignmetTaskDBContext.cs",
+              "ToolTip": "C:\\Users\\Edwin\\source\\repos\\AssignmetTaskApi\\Infraestructure\\AssignmetTaskDBContext.cs",
+              "RelativeToolTip": "Infraestructure\\AssignmetTaskDBContext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAD4vx0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T02:41:38.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Edwin\\source\\repos\\AssignmetTaskApi\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Edwin\\source\\repos\\AssignmetTaskApi\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T02:37:49.65Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
